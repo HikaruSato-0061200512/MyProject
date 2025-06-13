@@ -8,6 +8,8 @@ public class Member01 {
 	int authority;
 	int[] coupon;
 	
+	//フィールドを1つ追加
+	public String newName;
 	
 
 }
